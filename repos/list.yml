@@ -3,4 +3,5 @@ repositories:
   - fake/repo
   - test-jaron/test-repo
   - test-jaron/test-repo-2
+  - test-jaron/test-repo6
   - test-jaron/test-repo7
