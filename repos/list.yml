@@ -12,3 +12,5 @@ repositories:
   - fake-repo-2
   - fake-repo3
   - fake-repo4
+  - test-innersource/jaron-test
+  - test-sandbox/jaron-test
