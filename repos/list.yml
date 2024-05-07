@@ -8,4 +8,7 @@ repositories:
   - fake/repo
   - test-jaron/test-repo9
   - test-jaron/test-repo8
-
+  - fake-repo
+  - fake-repo-2
+  - fake-repo3
+  - fake-repo4
