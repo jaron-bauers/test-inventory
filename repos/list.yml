@@ -15,3 +15,7 @@ repositories:
   - test-innersource/jaron-test
   - test-sandbox/jaron-test
   - repo
+  - test-org/test-repo
+  - test-org2/test-repo
+  - test-org/test-repo2
+  - test-org2/test-repo2
