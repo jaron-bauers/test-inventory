@@ -14,3 +14,4 @@ repositories:
   - fake-repo4
   - test-innersource/jaron-test
   - test-sandbox/jaron-test
+  - repo
